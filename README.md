@@ -22,7 +22,7 @@ Suka tidur
 ![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourusername)
+![](https://github-profile-trophy.vercel.app/?username=zennzzofficial)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=onedark)
