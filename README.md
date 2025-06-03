@@ -1,35 +1,31 @@
-<h2 align="center">Hello, Welcome To My Github Pages. 👋</h2>
+![Profile Banner](https://files.catbox.moe/gwdynq.jpg)
 
-```sh 
-My Personal Profile.
-```
+# Hi, Im Zenzz XD 👏
+### Im Beginner Developer From Indonesia
 
-```javascript
-👤Name : Zenzz XD
-🏙️From : Surabaya, Jawa Timur.
-🎂Age : 13 Y.o
-🎮Hobby : Game/Code/Watch.
-📎Fav Language : JavaScript.
-```
+Suka tidur
 
-```sh
-Social Media
-```
+- 🔭 I'm currently working on [Zenzz-XD Api](https://zenz.biz.id)
+- 👯 I'm looking to collaborate on [Gaada sih](gaada)
+- 🤝 I'm looking for help with [gaada](gaada)
+- 🌱 I'm currently learning JawaScript
+- 💬 Ask me about gatau lah, kalau ngerti gw jawab
+- 📫 How to reach me: aaku85019@gmail.com
 
-```javascript
-Instagram : @zenzxdd
-Facebook : -
-Twitter : -
-```
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Contact Me📞
-<p align="center">
-  <a href="https://instagram.com/l4lang"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6287823745178"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="[https://youtube.com/@zxyureal]"><img src="https://img.shields.io/badge/YouTube-ZenzzXD -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@ZxkyuReal" /><br>
-  <a href="https://github.com/gilangsan"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a></a></a></a></p>
-Visitor : </br>
-<img src='https://profile-counter.glitch.me/%7Bgilangsan%7D/count.svg'>
+## 🌐 Socials:
+[![instagram](https://img.shields.io/badge/instagram-@zenzxdd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@zenzxdd)
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=gilangsan&show_icons=true&theme=radical)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangsan&layout=compact)
+## 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yourusername)
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=onedark)
+
+### 💻 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=onedark)
