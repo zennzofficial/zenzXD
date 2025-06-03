@@ -25,7 +25,7 @@ Suka tidur
 ![](https://github-profile-trophy.vercel.app/?username=zennzzofficial)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=zennzofficial&show_icons=true&theme=onedark)
 
 ### 💻 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=onedark)
